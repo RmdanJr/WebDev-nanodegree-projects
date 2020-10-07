@@ -1,13 +1,28 @@
 # Landing Page Project
 
+This is a simple landing page project.
+
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [Technologies used](#Technologies)
+- [Functionalities Implemented](#Functionalities)
+- [How to Use it](#How-to-use-it)
 
-## Instructions
+## Technologies:
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+- HTML
+- CSS
+- JAVASCRIPT
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Functionalities
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- The Navigation
+- The dynamic active
+- The scrolling effect
+
+## How to use it
+
+1. Open your fav browser.
+2. Click `ctrl+O`.
+3. Navigate to your index.html.
+4. Click on it.
