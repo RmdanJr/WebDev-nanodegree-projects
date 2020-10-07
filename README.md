@@ -15,9 +15,9 @@ The following is a list of current projects required to complete the Front End N
 Note that projects that do not include associated starter code are not linked here.
 
 1. Personal Blog Website
-2. [Landing Page](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
-3. [Weather Journal App](https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app)
-4. [Evaluate A News Article with Natural Language Processing](https://github.com/udacity/fend/tree/refresh-2019/projects/evaluate-news-nlp)
+2. [Landing Page](https://github.com/Hasssan-Ramadan/WebDev-nanodegree-projects/tree/main/projects/landing-page)
+3. Weather Journal App
+4. Evaluate A News Article with Natural Language Processing
 5. Capstone - Travel App
 
 ## Courses
